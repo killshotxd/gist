@@ -3,6 +3,7 @@ import dummy from "../assets/dummyprofile.jpg";
 import { AiOutlineHeart } from "react-icons/ai";
 import { LuSend } from "react-icons/lu";
 import { FaRegComment, FaRetweet } from "react-icons/fa";
+
 const Home = () => {
   return (
     <>
